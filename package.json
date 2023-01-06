@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "3.4.0",
-    "@types/node": "18.8.4",
+    "@types/node": "18.11.18",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
     "eslint": "8.27.0",
@@ -35,6 +35,6 @@
   },
   "packageManager": "yarn@3.3.0",
   "volta": {
-    "node": "18.12.0"
+    "node": "18.13.0"
   }
 }
